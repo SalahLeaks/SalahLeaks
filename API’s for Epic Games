@@ -1,0 +1,30 @@
+API LINKS (not the offical but epic uses them, some and not all)
+
+• Real Money Pack (needs AUTH)
+https://egs-platform-service.store.epicgames.com/api/v1/egs/products/prod-fn/featured-offers/add-ons?count=100&country=US&locale=en&start=0&store=EGS
+• Shop Sections
+https://fortnitecontent-website-prod07.ol.epicgames.com/content/api/pages/fortnite-game/mp-item-shop
+• Billboard Assets
+https://fortnitecontent-website-prod07.ol.epicgames.com/content/api/pages/fortnite-game/shopoffervisuals
+• Normal Blogs
+https://www.fortnite.com/api/blog/getPosts?category=&locale=en&offset=0&postsPerPage=0&rootPageSlug=blog&sessionInvalidated=true
+• Competitive Blogs
+https://www.fortnite.com/competitive/api/blog/getPosts?offset=0&category=&locale=en&rootPageSlug=news&postsPerPage=0
+• Tournaments
+https://fortnitecontent-website-prod07.ol.epicgames.com/content/api/pages/fortnite-game/tournamentinformation
+• Festival Jam Tracks
+https://fortnitecontent-website-prod07.ol.epicgames.com/content/api/pages/fortnite-game/spark-tracks
+• Server Status
+https://api.nitestats.com/v1/epic/lightswitch
+• Lobby Background
+https://fortnitecontent-website-prod07.ol.epicgames.com/content/api/pages/fortnite-game/dynamicbackgrounds
+• Event Flags
+https://api.nitestats.com/v1/epic/modes
+• Keychains
+https://api.nitestats.com/v1/epic/keychain
+• Emergency Notice
+https://fortnitecontent-website-prod07.ol.epicgames.com/content/api/pages/fortnite-game/emergencynoticev2
+• Server Staging
+https://api.nitestats.com/v1/epic/staging/fortnite
+
+Each API is recommend to be fetched every 60 seconds at least and to avoid getting banned make it 80 seconds
