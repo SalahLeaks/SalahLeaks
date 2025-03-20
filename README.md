@@ -1,6 +1,3 @@
-- 👋 Hi, I’m @SalahLeaks
+Follow my social media 
 
-<!---
-SalahLeaks/SalahLeaks is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- (Twitter)[https://x.com/SalahLeaks?t=SvRhvmJSvw8WsI-DysPj8A&s=09]
