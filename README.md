@@ -6,7 +6,6 @@ I am salahleaks, young talented developer helping beginners in their goal to cre
 
 if you need any help pls contact me via Discord
 
-## Stats
 
 <p align="center">Github Stats</p>
 
