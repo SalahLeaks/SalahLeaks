@@ -1,19 +1,17 @@
 # Hi 🥀
 
-🇪🇬 | Fortnite Leaker & Dataminer| Email: salahleaks@gmail.com
+🇪🇬 | Fortnite Leaker & Dataminer| C# & Python dev
 
 I am salahleaks, young talented developer helping beginners in their goal to create Trackers, bots, and many more 
 
 if you need any help pls contact me via Discord
 
-
 ## Stats
-   <p align="center">Github Stats</p>
+
+<p align="center">Github Stats</p>
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=SalahLeaks&show_icons=true&hide_border=true&line_height=27&count_private=true&hide_title=true&text_color=c9cacc&icon_color=
-
-2bbc8a&bg_color=0d1117" alt="github stats" width="450">
+    <img src="https://github-readme-stats.vercel.app/api?username=SalahLeaks&show_icons=true&hide_border=true&line_height=27&count_private=true&hide_title=true&text_color=c9cacc&icon_color=2bbc8a&bg_color=0d1117" alt="github stats" width="450">
 </p>
 
 ## Social Accounts:
