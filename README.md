@@ -9,4 +9,4 @@
 </p>
 
 ## Social Accounts:
-[!][Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/QsAPAfbM4v) [!][Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/SalahLeaks) 
+[!][Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/QsAPAfbM4v) [!][Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)(https://twitter.com/SalahLeaks) 
