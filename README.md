@@ -4,7 +4,6 @@
 ![SalahLeaks's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SalahLeaks&theme=highcontrast&show_icons=true&hide_border=true&count_private=false)  
 ![SalahLeaks's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SalahLeaks&theme=highcontrast&show_icons=true&hide_border=true&layout=compact)
 
-    </a>
   </div>
   <br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SalahLeaks&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
