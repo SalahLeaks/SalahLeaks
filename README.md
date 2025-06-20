@@ -1,6 +1,5 @@
 # Hi there! <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt=""> Welcome to my GitHub profile
 
-## Stats 
 
 ![SalahLeaks's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SalahLeaks&theme=highcontrast&show_icons=true&hide_border=true&count_private=false)  
 ![SalahLeaks's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SalahLeaks&theme=highcontrast&show_icons=true&hide_border=true&layout=compact)
