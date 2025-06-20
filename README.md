@@ -21,6 +21,6 @@
 
 ## Projects I contribute to
 
-![](https://github-contributor-stats.vercel.app/api?username=SalahLeaks&limit=10&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=SalahLeaks&limit=100&theme=dark&combine_all_yearly_contributions=true)
 
 ---
